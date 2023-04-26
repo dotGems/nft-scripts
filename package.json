@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@wharfkit/session": "^0.3.0",
+    "@wharfkit/wallet-plugin-privatekey": "^0.3.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.1"
+  }
+}
